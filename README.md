@@ -30,7 +30,7 @@ Android-приложение словаря.
 
 ### Cosmic Jumper (приватный репозиторий)
 Мобильная игра, разработанная на движке Godot.  
-Опубликована в Google Play. [Открыть в Google Play]([https://play.google.com/store/apps/details?id=com.timofeev.tasker](https://play.google.com/store/apps/details?id=com.timofeev.cosmicjumper))
+Опубликована в Google Play. [Открыть в Google Play](https://play.google.com/store/apps/details?id=com.timofeev.cosmicjumper)
 
 ## Сейчас изучаю
 
